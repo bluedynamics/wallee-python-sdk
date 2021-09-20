@@ -13,7 +13,6 @@ REQUIRES = [
     "python-dateutil>=2.1",
     "six>=1.10",
     "urllib3>=1.23",
-    "enum34>=1.1.6"
 ]
     
 
